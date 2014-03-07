@@ -6,7 +6,8 @@ output = 'words.csv'
 data = """
 自然数, 標準偏差, テイラー展開, インターフェイス,
 X11, P2P, 7zip, SHA1, C#, C++, Tcl/Tk, Objective C,
-.NET, 条件分岐, インターフェイス,
+.NET, 条件分岐, インターフェイス, 派生型, 抽象型,
+切り捨て, 無名関数, 関数呼出し, スコープチェーン
 """
 
 fo = file(output, 'w')
