@@ -24,7 +24,8 @@ groups = [
    ライブラリ, パッケージ, モジュール, ユーティリティ, ドライバ, プラグマ,
    class, interface, extends, import, implements, public, protected, friend, private, Override,
    リスト, タプル, インスタンス, オブジェクト,
-   配列, コレクション, ストリング, 辞書, ベクタ, 添字, デリゲート, プロパティ, 属性, フィールド
+   配列, コレクション, ストリング, 辞書, ベクタ, 添字, デリゲート, プロパティ, 属性, フィールド,
+   CORBA, DCOM, COM, WebSphere, .NET
 """,
 
 # OS
