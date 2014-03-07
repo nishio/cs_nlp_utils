@@ -13,19 +13,30 @@ groups = [
    なでしこ, ドリトル, JSX, Haxe""",
 
 # プログラミング関連用語
-"""クラス, トレイト, インターフェイス, 継承, オーバーライド, goto, 条件分岐, 代入,
-   変数, 関数, サブルーチン, 束縛, スコープ, ライブラリ, モジュール,
-   XPCOM, データモデル, 派生型, 抽象型, ミックスイン, continue, break, rescue, redo, while, until,
-   try, catch, except, finally, スライシング, ガベージコレクション, 複文, ガード,
-   束縛, 加算, 減算, インクリメント, デクリメント, 四捨五入, 切り捨て
-   グローバル, 大域, スコープ, スカラー, レキシカル, 動的, 静的, メソッド, クロージャ, マクロ, ルーチン,
-   コルーチン, ファイバー, スレッド, 協調的, マルチタスク,
-   イテレータ, 無名関数, 関数呼出し, ブレス, アロケート, クオート, スコープチェーン,
-   ライブラリ, パッケージ, モジュール, ユーティリティ, ドライバ, プラグマ,
-   class, interface, extends, import, implements, public, protected, friend, private, Override,
-   リスト, タプル, インスタンス, オブジェクト,
-   配列, コレクション, ストリング, 辞書, ベクタ, 添字, デリゲート, プロパティ, 属性, フィールド,
-   CORBA, DCOM, COM, WebSphere, .NET
+"""クラス, トレイト, インターフェイス, 継承, オーバーライド, インスタンス, オブジェクト,
+ミックスイン, デリゲート, プロパティ, 属性, フィールド,
+""",
+
+"""goto, continue, break, rescue, redo, while, until, if, return, try, catch, except, finally,
+""",
+
+"""class, interface, extends, import, implements, public, protected, friend, private, Override,
+""",
+
+"""関数, サブルーチン, メソッド, クロージャ, マクロ, ルーチン, 無名関数, 関数呼出し,
+""",
+
+"""ライブラリ, モジュール,
+""",
+
+"""グローバル, 大域, スコープ, レキシカル, 動的, 静的,
+""",
+
+"""コルーチン, ファイバー, スレッド, 協調的, マルチタスク,
+""",
+
+"""
+イテレータ, リスト, タプル, 配列, コレクション, ストリング, 辞書, ベクタ, アレイ,
 """,
 
 # OS
@@ -51,8 +62,27 @@ apache, nginx, memcached, lighttpd, lighttpd, OpenLDAP, Asterisk, Apache,
 
 # command / user
 """
-mkdir, ln, ls, cd, mv, cp, rm, chmod, chown, chroot, su, sudo, root nobody, ssh, scp, git, hg, svn, cvs,
+mkdir, ln, ls, cd, mv, cp, rm, chmod, chown, chroot, su, sudo, root, nobody, ssh, scp, git, hg, svn, cvs,
 """,
+
+"""
+Tapestry, Django, Zope, Rails,
+""",
+
+"""
+Word, Excel, PowerPoint, Photoshop, Illustrator, InDesign, Fireworks, Pages, Numbers, Access,
+""",
+
+"""条件分岐, 代入, 変数, 束縛,
+   XPCOM, データモデル, 派生型, 抽象型,
+   スライシング, ガベージコレクション, 複文, ガード,
+   束縛, 加算, 減算, インクリメント, デクリメント, 四捨五入, 切り捨て,
+   スカラー,
+   ブレス, アロケート, クオート, スコープチェーン,
+   ライブラリ, パッケージ, モジュール, ユーティリティ, ドライバ, プラグマ, 添字,
+   CORBA, DCOM, COM, WebSphere, .NET, RubyGems
+""",
+
 ]
 
 for i, g in enumerate(groups):
