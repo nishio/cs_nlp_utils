@@ -9,8 +9,8 @@ groups = [
    Tcl, Tk, Tck/Tk, Erlang, Prolog, PCRE, Clojure, Scheme, FORTRAN, Gauche, JRuby, Jython, IronPython, CPython,
    MRI, YARV, Ada, ALGOL, VBA, Pascal, Delphi, Eiffel, Algol, B, BCPL, R, J, Groovy, Prolog,
    Rhino, Selenium, ML, Scheme, Lua, CoffeeScript, ksh, csh, grep, APL, ColdFusion, Flash,
-   VisualBasic, BASIC, Basic, IDL, VBA, Dreamweaver, BPQL, UML, DTML, HTML, SGML, SML, RPG, SQL
-   なでしこ, ドリトル, JSX Haxe""",
+   VisualBasic, BASIC, Basic, IDL, VBA, Dreamweaver, BPQL, UML, DTML, HTML, SGML, SML, RPG, SQL,
+   なでしこ, ドリトル, JSX, Haxe""",
 
 # プログラミング関連用語
 """クラス, トレイト, インターフェイス, 継承, オーバーライド, goto, 条件分岐, 代入,
